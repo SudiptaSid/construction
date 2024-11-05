@@ -1,0 +1,335 @@
+/* ------------------------ 
+    Max Width 1366px 
+------------------------ */
+@media (max-width: 1366px) {
+
+}
+/* ------------------------ 
+    Max Width 1280px 
+------------------------ */
+@media (max-width: 1280px) {
+
+}
+/* ------------------------ 
+    Max Width 1080px 
+------------------------ */
+@media (max-width: 1080px) {
+
+}
+/* ------------------------ 
+    Max Width 1024px 
+------------------------ */
+@media (max-width: 1024px) {
+
+}
+/* ------------------------ 
+    Min Width 1000px 
+------------------------ */
+@media (min-width: 1000px) {
+
+}
+/* ------------------------ 
+    Max Width 966px 
+------------------------ */
+@media (max-width: 966px) {
+.about .about_content {
+    padding-right: 140px;
+}
+.about .years {
+    height:45%;
+    top: 35%;
+}
+.about .years span {
+    font-size: 100px;
+}
+.service .cus_col {
+    padding: 0px 5px;
+}
+.service .grid .details::before {
+    border-bottom: 70px solid #fff;
+    border-right: 230px solid transparent;
+}
+.service .grid .details {
+    padding:10px 5px;
+    height:70px;
+}
+.service .grid .details h4 {
+    margin: 30px 0px 0px 0px;
+    font-size: 12px;
+}
+.service .grid .details::after {
+    border-bottom: 70px solid #0078d7;
+    border-left: 160px solid transparent;
+}
+.service .grid .details a {
+    right: 10px;
+    top: 2em;
+    letter-spacing: 0px;
+    margin-top: 20px;
+    font-size: 12px;
+}
+.gallery .cus_col .grid .overlay a.link {
+    margin-top:30px;
+}
+.news .overlay_info {
+    padding:15px;
+}
+.news .overlay_info .time_details {
+    margin-bottom: 10px;
+}
+.news .overlay_info .title a {
+    font-size:16px;
+    line-height:24px;
+}
+.phone_no a {
+    font-size:14px;
+}
+}
+/* ------------------------ 
+    Max Width 853px 
+------------------------ */
+@media (max-width: 853px) {
+.banner #banner_slider .item .caption {
+    top: 10%;
+    left: 10%;
+    width: 80%;
+}
+footer .f_logo_block .social_link li a {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    margin-right: 5px;
+    font-size: 12px;
+}
+footer .links {
+    margin-top:0px;
+}
+}
+/* ------------------------ 
+    Max Width 800px 
+------------------------ */
+@media (max-width: 800px) {
+
+}
+/* ------------------------ 
+    Min Width 769px 
+------------------------ */
+@media (min-width: 769px) {
+
+}
+/* ------------------------ 
+    Max Width 768px 
+------------------------ */
+@media (max-width: 768px) {
+
+}
+/* ------------------------ 
+    Max Width 736px 
+------------------------ */
+@media (max-width: 736px) {
+.c_menu {
+    padding:0px 10px;
+}
+.c_menu .navbar-nav .nav-item .nav-link,
+.c_menu.fixed_menu .navbar-nav .nav-item .nav-link {
+    padding:10px;
+    display: inline-block;
+}
+.about .years {
+    height: 25%;
+    top: 35%;
+    width: 100%;
+    right: 0;
+}
+.about .years span {
+    font-size: 60px;
+}
+.about .years p {
+    font-size: 13px;
+    margin: 0px;
+}
+.about .about_content {
+    padding-right: 0;
+}
+.about .about_block .counter_wrap li .counter {
+    font-size:20px;
+}
+.about .about_block .counter_wrap li p {
+    font-size:14px;
+}
+.service .cus_col {
+    padding: 0px 5px;
+    flex: 0 0 50%;
+    max-width: 50%;
+    margin-bottom: 10px;
+}
+.gallery .cus_col {
+    flex: 0 0 50%;
+    max-width: 50%;
+    margin-bottom: 1px;
+}
+.contact_us .contact_form .map {
+    height:350px;
+}
+footer .links {
+    margin-bottom:20px;
+    text-align: center;
+}
+footer .f_logo_block {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.phone_no {
+    text-align: center;
+}
+.email_id {
+    text-align: center;
+}
+}
+/* ------------------------ 
+    Max Width 720px 
+------------------------ */
+@media (max-width: 720px) {
+
+}
+/* ------------------------ 
+    Max Width 690px 
+------------------------ */
+@media (max-width: 690px) {
+
+}
+/* ------------------------ 
+    Max Width 667px 
+------------------------ */
+@media (max-width: 667px) {
+
+}
+/* ------------------------ 
+    Max Width 640px 
+------------------------ */
+@media (max-width: 640px) {
+.banner #banner_slider .item .caption h4 {
+    font-size:14px;
+    line-height:14px;
+    margin-bottom:5px;
+}
+.banner #banner_slider .item .caption h1 {
+    font-size:26px;
+    line-height:36px;
+    margin-bottom:5px;
+}
+.about .years {
+    height:130px;
+}
+.about .about_block .counter_wrap {
+    margin-top:40px;
+}
+}
+/* ------------------------ 
+    Max Width 603px 
+------------------------ */
+@media (max-width: 603px) {
+
+}
+/* ------------------------ 
+    Max Width 600px 
+------------------------ */
+@media (max-width: 600px) {
+
+}
+/* ------------------------ 
+    Max Width 568px 
+------------------------ */
+@media (max-width: 568px) {
+.banner #banner_slider .item .caption {
+    top: 5%;
+    left: 0%;
+    width: 100%;
+}
+.about .about_img {
+    width: 60%;
+    margin: 20px auto 0px auto;
+}
+.about .years {
+    width: 60%;
+    left: 20%;
+    top: 80%;
+}
+.about .about_block {
+    text-align: center;
+}
+.about .about_block .counter_wrap li {
+    float: left;
+    width: 25%;
+}
+}
+/* ------------------------ 
+    Max Width 533px 
+------------------------ */
+@media (max-width: 533px) {
+
+}
+/* ------------------------ 
+    Max Width 480px 
+------------------------ */
+@media (max-width: 480px) {
+.banner #banner_slider .item .caption h1 {
+    font-size: 16px;
+    line-height: 26px;
+}
+.banner #banner_slider .item .caption .btn {
+    padding: 5px 15px;
+}
+.banner #banner_slider .owl-dots {
+    text-align:left;
+    width: auto;
+}
+}
+/* ------------------------ 
+    Max Width 414px 
+------------------------ */
+@media (max-width: 414px) {
+.service .cus_col {
+    padding: 0px 15px;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.service .grid .details::after {
+    border-left: 220px solid transparent;
+}
+.news .overlay_info {
+    padding:10px;
+    width:200px;
+}
+.news .overlay_info .time_details .date span:first-child {
+    font-size: 34px;
+    line-height: 34px;
+}
+.news .overlay_info .time_details .deta li {
+    font-size: 12px;
+}
+.news .overlay_info .title a {
+    font-size: 14px;
+    line-height: 20px;
+}
+.news .overlay_info .event_btn {
+    margin-top:10px;
+}
+.gallery .cus_col .grid .overlay a.link {
+    margin-top:10px;
+    font-size:14px;
+    line-height:20px;
+}
+}
+/* ------------------------ 
+    Max Width 375px 
+------------------------ */
+@media (max-width: 375px) {
+
+}
+/* ------------------------ 
+    Max Width 320px 
+------------------------ */
+@media (max-width: 320px) {
+
+}
